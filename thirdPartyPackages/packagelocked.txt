@@ -1,0 +1,1 @@
+The Package.lockedjson keeps tracks of the recent dependencies versions that we have installed in our projects in the package.json file.

@@ -1,0 +1,1 @@
+The scripts section of in our package.json file will keep track of our project dependencies( that is all the packages installed locally into our project)

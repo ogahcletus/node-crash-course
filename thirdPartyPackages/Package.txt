@@ -1,0 +1,5 @@
+/*
+Not for use for packages that are installed locally but for those packages that are specific to our current project.
+We can create package ,son file by initialising npm init
+
+*/
